@@ -39,6 +39,10 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     # GraphQL api
     'graphene_django',
+
+    # apps
+    'links',
+    
 ]
 
 MIDDLEWARE = [
